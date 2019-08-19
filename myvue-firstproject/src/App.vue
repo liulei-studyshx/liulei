@@ -23,5 +23,7 @@ export default {
 #app {
   height: 100%;
   width: 100%;
+  display: flex;
+  flex-direction: row;
 }
 </style>

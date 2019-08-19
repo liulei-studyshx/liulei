@@ -14,12 +14,12 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path:'/leftNav',
+      path:'leftNav',
       name:'leftNav',
       component:LeftNav
     },
     {
-      path:'/rightContent',
+      path:'rightContent',
       name:'rightContent',
       component:RightContent
     },
